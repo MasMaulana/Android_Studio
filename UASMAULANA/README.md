@@ -1,7 +1,7 @@
 # APLIKASI ANDROID
-###### Aplikasi android sederhana untuk menampilkan inputan data kedalam listview edit oleh Fadhil Naufal MN
+###### Aplikasi android sederhana untuk menampilkan inputan data kedalam listview edit oleh MAULANA
 
 ### Dibuat Oleh :
-##### Fadhil Naufal Maifino Novian
+##### MAULANA
 ### NIM 
-##### G.131.22.0059
+##### G.131.22.0027
